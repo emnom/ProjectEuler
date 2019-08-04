@@ -1,0 +1,11 @@
+E:\Programing\Visual\Si#\Euler\3\3\bin\Debug\netcoreapp2.1\3.deps.json
+E:\Programing\Visual\Si#\Euler\3\3\bin\Debug\netcoreapp2.1\3.runtimeconfig.json
+E:\Programing\Visual\Si#\Euler\3\3\bin\Debug\netcoreapp2.1\3.runtimeconfig.dev.json
+E:\Programing\Visual\Si#\Euler\3\3\bin\Debug\netcoreapp2.1\3.dll
+E:\Programing\Visual\Si#\Euler\3\3\bin\Debug\netcoreapp2.1\3.pdb
+E:\Programing\Visual\Si#\Euler\3\3\obj\Debug\netcoreapp2.1\3.csprojAssemblyReference.cache
+E:\Programing\Visual\Si#\Euler\3\3\obj\Debug\netcoreapp2.1\3.csproj.CoreCompileInputs.cache
+E:\Programing\Visual\Si#\Euler\3\3\obj\Debug\netcoreapp2.1\3.AssemblyInfoInputs.cache
+E:\Programing\Visual\Si#\Euler\3\3\obj\Debug\netcoreapp2.1\3.AssemblyInfo.cs
+E:\Programing\Visual\Si#\Euler\3\3\obj\Debug\netcoreapp2.1\3.dll
+E:\Programing\Visual\Si#\Euler\3\3\obj\Debug\netcoreapp2.1\3.pdb
