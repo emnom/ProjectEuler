@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programing\\Visual\\Si#\\ProjectEuler\\7\\7\\7.csproj",
-      "projectName": "7",
-      "projectPath": "E:\\Programing\\Visual\\Si#\\ProjectEuler\\7\\7\\7.csproj",
+      "projectUniqueName": "E:\\Programing\\Visual\\Si#\\ProjectEuler\\10\\10\\10.csproj",
+      "projectName": "10",
+      "projectPath": "E:\\Programing\\Visual\\Si#\\ProjectEuler\\10\\10\\10.csproj",
       "packagesPath": "C:\\Users\\ilgaz\\.nuget\\packages\\",
-      "outputPath": "E:\\Programing\\Visual\\Si#\\ProjectEuler\\7\\7\\obj\\",
+      "outputPath": "E:\\Programing\\Visual\\Si#\\ProjectEuler\\10\\10\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
